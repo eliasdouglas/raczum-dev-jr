@@ -22,6 +22,8 @@ Desejável
 # Teste Prático - Etapa 02
 Nessa etapa serão avaliados raciocínio lógico, criatividade, capacidade de inovação e conhecimento técnico.
 
+Arquivos com o layout que deve ser implementado nesse teste: teste-frontend.psd e teste-frontend.jpg
+
 Decisões de melhoria na acessibilidade, usabilidade e design; além do que foi pedido, são permitidos e podem te render alguns pontos extras!
 
 O ideal pode ser enviado via Pull Request ou por e-mail [douglas.elias@raczum.com] . O prazo sugerido para entrega é de até 3 dias a partir do nosso contato. Caso seja entregue após o prazo, se a vaga ainda estiver aberta, você poderá prosseguir normalmente no processo. Note que, quanto antes entregar, maiores serão suas chances de ser avaliado antes da vaga ser preenchida.
